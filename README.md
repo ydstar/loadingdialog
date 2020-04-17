@@ -1,0 +1,2 @@
+# loadingdialog
+Android普通样式加载框和精仿iOS加载框
