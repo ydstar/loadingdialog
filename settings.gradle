@@ -1,0 +1,3 @@
+rootProject.name='loadingdialog'
+include ':app'
+include ':loading_dialog_lib'
